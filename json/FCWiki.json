@@ -1,0 +1,720 @@
+{
+  "name": "FCWiki",
+  "url": "https://en.wikipedia.org/wiki/X-Men:_First_Class",
+  "content": {
+    "externalLinks": [
+      {
+        "href": "https://web.archive.org/web/20101217102611/http://marvel.com/universe/Magneto_(Magnus)",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20120604183154/http://blogs.coventrytelegraph.net/thegeekfiles/2011/05/x-men-first-class-gets-a-uk-ra.html",
+        "text": "\"X-Men: First Class gets a UK rating and official running time\""
+      },
+      {
+        "href": "https://web.archive.org/web/20161025143055/http://www.afi.com/members/catalog/DetailView.aspx?s=&amp;Movie=66758",
+        "text": "\"X-Men: First Class\""
+      },
+      {
+        "href": "https://archive.today/20140514183458/http://lumiere.obs.coe.int/web/film_info/?id=37052",
+        "text": "Archived"
+      },
+      {
+        "href": "https://www.bfi.org.uk/films-tv-people/4f4b8b84bfb61",
+        "text": "\"X-Men First Class (2011)\""
+      },
+      {
+        "href": "https://web.archive.org/web/20200527111109/https://www2.bfi.org.uk/films-tv-people/4f4b8b84bfb61",
+        "text": "Archived"
+      },
+      {
+        "href": "https://www.hollywoodreporter.com/news/box-office-preview-x-men-194414",
+        "text": "\"Box Office Preview: 'X-Men: First Class' Expected to Bump 'Hangover II' From Top Spot\""
+      },
+      {
+        "href": "https://web.archive.org/web/20121102070536/http://www.hollywoodreporter.com/news/box-office-preview-x-men-194414",
+        "text": "Archived"
+      },
+      {
+        "href": "https://www.boxofficemojo.com/movies/?id=xmenfirstclass.htm",
+        "text": "\"X-Men: First Class (2011)\""
+      },
+      {
+        "href": "https://web.archive.org/web/20120620110811/http://boxofficemojo.com/movies/?id=xmenfirstclass.htm",
+        "text": "Archived"
+      },
+      {
+        "href": "https://www.slashfilm.com/film-interview-xmen-class-director-matthew-vaughn/",
+        "text": "\"/Film Interview: 'X-Men: First Class' Director Matthew Vaughn\""
+      },
+      {
+        "href": "https://web.archive.org/web/20201026015908/https://www.slashfilm.com/film-interview-xmen-class-director-matthew-vaughn/",
+        "text": "Archived"
+      },
+      {
+        "href": "https://www.denofgeek.com/movies/james-bond/17507/matthew-vaughn-interview-x-men-first-class-thor-hollywood-james-bond-take-that-and-more",
+        "text": "\"Matthew Vaughn interview: X-Men: First Class, Thor, Hollywood, James Bond, Take That and more\""
+      },
+      {
+        "href": "https://web.archive.org/web/20130828043153/http://www.denofgeek.com/movies/james-bond/17507/matthew-vaughn-interview-x-men-first-class-thor-hollywood-james-bond-take-that-and-more",
+        "text": "Archived"
+      },
+      {
+        "href": "https://www.ign.com/articles/2011/03/30/x-men-first-class-james-mcavoy-interview?page=1",
+        "text": "\"X-Men: First Class: James McAvoy Interview\""
+      },
+      {
+        "href": "https://web.archive.org/web/20200421113916/https://www.ign.com/articles/2011/03/30/x-men-first-class-james-mcavoy-interview?page=1",
+        "text": "Archived"
+      },
+      {
+        "href": "https://www.ign.com/articles/2011/03/30/x-men-first-class-james-mcavoy-interview?page=2",
+        "text": "\"X-Men: First Class: James McAvoy Interview page 2\""
+      },
+      {
+        "href": "https://web.archive.org/web/20121107163244/http://www.ign.com/articles/2011/03/30/x-men-first-class-james-mcavoy-interview?page=2",
+        "text": "Archived"
+      },
+      {
+        "href": "https://archive.today/20130629020958/http://www.hitfix.com/blogs/motion-captured/posts/interview-director-matthew-vaughn-on-making-x-men-first-class-feel-fresh",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20160409223356/http://www.reelz.com/movie-news/7669/laurence-belcher-joins-x-men-first-class-as-young-charles-xavier/",
+        "text": "\"Laurence Belcher Joins X-Men: First Class as Young Charles Xavier\""
+      },
+      {
+        "href": "https://web.archive.org/web/20120604185727/http://movies.ign.com/articles/116/1161582p1.html",
+        "text": "Archived"
+      },
+      {
+        "href": "https://www.variety.com/article/VR1118023030",
+        "text": "\"January Jones joins 'X-Men'\""
+      },
+      {
+        "href": "https://web.archive.org/web/20110805141818/http://www.variety.com/article/VR1118023030",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20120604193319/http://www.instyle.co.uk/news/exclusive-interview-with-rose-byrne-20-05-11",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20120514175814/http://movieline.com/2011/05/13/rose-byrne-on-bridesmaids-and-her-romantic-future-in-the-x-men-first-class-sequels/",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20120801001626/http://movies.ign.com/articles/116/1166813p1.html",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20110624083602/http://www.mtv.com/news/articles/1664359/jennifer-lawrence-x-men-first-class.jhtml",
+        "text": "Archived"
+      },
+      {
+        "href": "https://www.telegraph.co.uk/culture/film/starsandstories/8526466/X-Men-Jennifer-Lawrence-interview.html",
+        "text": "\"X-Men: Jennifer Lawrence interview\""
+      },
+      {
+        "href": "https://web.archive.org/web/20120604220517/http://www.telegraph.co.uk/culture/film/starsandstories/8526466/X-Men-Jennifer-Lawrence-interview.html",
+        "text": "Archived"
+      },
+      {
+        "href": "https://www.hollywoodreporter.com/blogs/heat-vision/jennifer-lawrence-painted-naked-daily-73534",
+        "text": "\"Jennifer Lawrence on Being Painted Naked Daily for 'X-Men: First Class'\""
+      },
+      {
+        "href": "https://web.archive.org/web/20110703200950/http://www.hollywoodreporter.com/blogs/heat-vision/jennifer-lawrence-painted-naked-daily-73534",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20160630203434/http://www.digital.cinefex.com/nxtbooks/cinefex/126/#/96",
+        "text": "Archived"
+      },
+      {
+        "href": "https://www.slashfilm.com/film-interview-part-2-matthew-vaughn-talks-major-xmen-class-spoiler/",
+        "text": "\"Film Interview Part 2: Matthew Vaughn Talks Major 'X-Men: First Class' Spoiler\""
+      },
+      {
+        "href": "https://web.archive.org/web/20120605012135/http://www.slashfilm.com/film-interview-part-2-matthew-vaughn-talks-major-xmen-class-spoiler/",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20110606143509/http://herocomplex.latimes.com/2011/01/04/x-men-first-class-january-jones-copes-with-sexed-up-insane-costumes/",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20120604222258/http://www.broadway.com/buzz/153013/benjamin-walker-to-star-in-broadway-transfer-of-bloody-bloody-andrew-jackson/",
+        "text": "Archived"
+      },
+      {
+        "href": "https://variety.com/2010/film/news/nicholas-hoult-from-boy-to-man-1118025956/",
+        "text": "\"Nicholas Hoult: From 'Boy' to 'Man'\""
+      },
+      {
+        "href": "https://web.archive.org/web/20181106213231/https://variety.com/2010/film/news/nicholas-hoult-from-boy-to-man-1118025956/",
+        "text": "Archived"
+      },
+      {
+        "href": "https://www.deadline.com/2010/08/oliver-platt-joins-x-men-first-class/",
+        "text": "\"Oliver Platt Joins 'X-Men: First Class'\""
+      },
+      {
+        "href": "https://web.archive.org/web/20100818032642/http://www.deadline.com/2010/08/oliver-platt-joins-x-men-first-class/",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20131026110826/http://metro.co.uk/2012/03/29/dexter-fletcher-i-turned-down-a-part-in-x-men-first-class-to-direct-wild-bill-369824/",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20130704164240/http://blogs.coventrytelegraph.net/thegeekfiles/2011/05/jason-flemyng-on-x-men-first-c.html",
+        "text": "\"Jason Flemyng on X-Men: First Class and nearly playing Beast in X-Men: The Last Stand\""
+      },
+      {
+        "href": "https://web.archive.org/web/20211111004305/https://uproxx.com/entertainment/",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20120604222727/http://www.blackfilm.com/read/2011/05/x-men-first-class-exclusive-edi-gathegi-interview/",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20111129171103/http://www.fxguide.com/featured/making-mutants-for-x-men-first-class/",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20120604212807/http://blog.moviefone.com/2011/01/19/interview-kevin-bacon-x-men-first-class/",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20111217032351/http://movies.ign.com/articles/116/1167782p1.html",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20120611094624/http://entretenimento.r7.com/cinema/noticias/ator-de-novo-x-men-fala-sobre-vilao-do-filme-20110601.html?question=0",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20110623225812/http://splashpage.mtv.com/2011/06/03/x-men-first-class-easter-eggs",
+        "text": "\"'X-Men: First Class' Easter Eggs: Five Things To Look For This Weekend!\""
+      },
+      {
+        "href": "https://www.ign.com/articles/2010/11/30/wise-casting-for-x-men-first-class",
+        "text": "\"Wise Casting for X-Men: First Class\""
+      },
+      {
+        "href": "https://web.archive.org/web/20121107163347/http://www.ign.com/articles/2010/11/30/wise-casting-for-x-men-first-class",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20130727131606/http://news.moviefone.com/2011/09/26/hugh-jackman-x-men-first-class-cameo-interview",
+        "text": "\"Hugh Jackman on How His 'X-Men: First Class' Cameo Almost Didn't Happen\""
+      },
+      {
+        "href": "https://www.latimes.com/opinion/opinion-la/la-oe-morrison-stan-lee-061111-column.html",
+        "text": "\"Patt Morrison Asks: Comics genius Stan Lee\""
+      },
+      {
+        "href": "https://web.archive.org/web/20201201033453/https://www.latimes.com/opinion/opinion-la/la-oe-morrison-stan-lee-061111-column.html",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20151124204648/http://www.superherohype.com/features/90651-zak-penn-on-his-potential-x-men-spin-off",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20120604214156/http://blog.moviefone.com/2007/05/01/zak-penn-talks-x-men-spin-off-incredible-hulk-casting-with-cine/",
+        "text": "\"Zak Penn Talks X-Men Spin-Off, Incredible Hulk Casting\""
+      },
+      {
+        "href": "https://web.archive.org/web/20061107140707/http://www.variety.com/article/VR1117914863.html?categoryid=1238&amp;cs=1",
+        "text": "\"Fox pages Turner to pen Magneto spinoff pic\""
+      },
+      {
+        "href": "https://www.variety.com/article/VR1117914863.html?categoryid=1238&amp;cs=1",
+        "text": "the original"
+      },
+      {
+        "href": "https://www.ew.com/ew/article/0,,1008429,00.html",
+        "text": "\"Checking in with ... 'Magneto'\""
+      },
+      {
+        "href": "https://web.archive.org/web/20071221182037/https://www.ew.com/ew/article/0,,1008429,00.html",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20070429013042/http://www.variety.com/article/VR1117963871.html?categoryid=13&amp;cs=1",
+        "text": "\"Fox, Marvel move on 'garrett'\""
+      },
+      {
+        "href": "https://www.variety.com/article/VR1117963871.html?categoryid=13&amp;cs=1",
+        "text": "the original"
+      },
+      {
+        "href": "https://web.archive.org/web/20070514205748/http://movies.ign.com/articles/704/704451p1.html",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20081001155154/http://news.bbc.co.uk/2/hi/entertainment/7501846.stm",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20071021202359/http://moviesblog.mtv.com/2007/05/15/x-men-spin-off-magneto-to-reveal-anti-hero-origin-story/",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20070615195514/http://www.news.ninemsn.com.au/article.aspx?id=280586",
+        "text": "\"More superhero movies head for Australia\""
+      },
+      {
+        "href": "https://www.animatedtimes.com/cancelled-superhero-movies/",
+        "text": "\"Cancelled Superhero Movies: 9 Doomed Projects Fans Still Crave For\""
+      },
+      {
+        "href": "https://web.archive.org/web/20200924214746/https://www.animatedtimes.com/cancelled-superhero-movies/",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20120814225137/http://blastr.com/2009/04/magneto-prequel-still-pos.php",
+        "text": "\"Magneto prequel still possible, depending on Wolverine\""
+      },
+      {
+        "href": "https://web.archive.org/web/20080607044555/http://www.politico.com/news/stories/0608/10807.html",
+        "text": "Archived"
+      },
+      {
+        "href": "https://www.collider.com/entertainment/interviews/article.asp/aid/10120/tcid/1",
+        "text": "\"David Goyer reveals Magneto and Invisible Man Info\""
+      },
+      {
+        "href": "https://web.archive.org/web/20081214224147/http://www.collider.com/entertainment/interviews/article.asp/aid/10120/tcid/1",
+        "text": "Archived"
+      },
+      {
+        "href": "https://variety.com/2008/film/news/fox-josh-schwartz-mutate-x-men-1117996099/",
+        "text": "\"Fox, Josh Schwartz mutate 'X-Men'\""
+      },
+      {
+        "href": "https://web.archive.org/web/20190810183219/https://variety.com/2008/film/news/fox-josh-schwartz-mutate-x-men-1117996099/",
+        "text": "Archived"
+      },
+      {
+        "href": "https://www.variety.com/article/VR1118012931",
+        "text": "\"Bryan Singer to direct 'X-Men: First Class'\""
+      },
+      {
+        "href": "https://web.archive.org/web/20121108104936/http://www.variety.com/article/VR1118012931",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20111015091804/http://splashpage.mtv.com/2010/03/02/former-x-men-first-class-writer-josh-schwartz-explains-his-exit/",
+        "text": "\"Former 'X-Men: First Class' Writer Josh Schwartz Explains His Exit\""
+      },
+      {
+        "href": "https://web.archive.org/web/20091016025155/http://splashpage.mtv.com/2009/10/13/ian-mckellen-assumes-he-wont-be-involved-in-x-men-origins-magneto",
+        "text": "\"Ian McKellen won't make X-Men return\""
+      },
+      {
+        "href": "https://web.archive.org/web/20091019082731/http://splashpage.mtv.com/2009/10/16/x-men-origins-magneto-producer-says-film-might-never-be-made/",
+        "text": "\"'X-Men Origins: Magneto' Producer Says Film Might Never Be Made\""
+      },
+      {
+        "href": "https://web.archive.org/web/20121020183642/http://www.empireonline.com/features/future-of-x-men-franchise/4.asp",
+        "text": "\"The Future the X-Men Franchise: Magneto\""
+      },
+      {
+        "href": "https://www.empireonline.com/features/future-of-x-men-franchise/4.asp",
+        "text": "the original"
+      },
+      {
+        "href": "https://web.archive.org/web/20180914094307/http://reporter.blogs.com/heat_vision_development/2009/12/heat-vision-qa-bryan-singer-on-x-men-first-class-avatar-and-more.html",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20141019112757/http://www.craveonline.com/film/interviews/135386-lauren-shuler-donner-on-x-men-first-class",
+        "text": "Archived"
+      },
+      {
+        "href": "https://www.hollywoodreporter.com/heat-vision/bryan-singer-why-i-challenged-183781",
+        "text": "\"Bryan Singer: Why I Challenged 'X-Men: First Class' Writing Credits (Exclusive)\""
+      },
+      {
+        "href": "https://web.archive.org/web/20120501064447/http://www.hollywoodreporter.com/heat-vision/bryan-singer-why-i-challenged-183781",
+        "text": "Archived"
+      },
+      {
+        "href": "https://www.hollywoodreporter.com/heat-vision/complex-x-men-first-class-182356",
+        "text": "\"Complex 'X-Men: First Class' Screenplay Credit Dispute Resolved (Exclusive)\""
+      },
+      {
+        "href": "https://web.archive.org/web/20120426091742/http://www.hollywoodreporter.com/heat-vision/complex-x-men-first-class-182356",
+        "text": "Archived"
+      },
+      {
+        "href": "https://www.hollywoodreporter.com/heat-vision/x-men-first-class-writing-183768",
+        "text": "\"'X-Men: First Class' Writing Credits Appeal Denied\""
+      },
+      {
+        "href": "https://web.archive.org/web/20110607235609/http://www.hollywoodreporter.com/heat-vision/x-men-first-class-writing-183768",
+        "text": "Archived"
+      },
+      {
+        "href": "https://www.ign.com/articles/2010/05/06/inside-x-men-first-class",
+        "text": "\"Inside X-Men: First Class\""
+      },
+      {
+        "href": "https://web.archive.org/web/20181106202924/https://www.ign.com/articles/2010/05/06/inside-x-men-first-class",
+        "text": "Archived"
+      },
+      {
+        "href": "https://www.deadline.com/2010/03/singer-to-producex-men-first-class/",
+        "text": "\"Bryan Singer Producing 'X-Men: First Class'\""
+      },
+      {
+        "href": "https://web.archive.org/web/20130814082823/http://www.deadline.com/2010/03/singer-to-producex-men-first-class/",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20150202034803/http://www.superherohype.com/features/167401-exclusive-interview-with-x-men-first-class-director-matthew-vaughn",
+        "text": "Archived"
+      },
+      {
+        "href": "https://variety.com/2010/film/news/x-men-prequel-to-open-june-3-2011-1118018752/2",
+        "text": "\"'X-Men' prequel to open June 04, 2011\""
+      },
+      {
+        "href": "https://web.archive.org/web/20160328073044/http://variety.com/2010/film/news/x-men-prequel-to-open-june-3-2011-1118018752/2/",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20131206155918/http://herocomplex.latimes.com/movies/inception-wakeup-call-xmen-first-class-forced-to-jettison-dream-scenes/",
+        "text": "\"'Inception' wake-up call – 'X-Men: First Class' director jettisons similar dream-time scenes\""
+      },
+      {
+        "href": "https://www.ign.com/articles/2011/03/09/x-men-first-class-set-visit",
+        "text": "\"X-Men: First Class Set Visit\""
+      },
+      {
+        "href": "https://web.archive.org/web/20121018201026/http://www.ign.com/articles/2011/03/09/x-men-first-class-set-visit",
+        "text": "Archived"
+      },
+      {
+        "href": "https://www.ign.com/articles/2010/08/02/x-men-following-star-treks-lead",
+        "text": "\"X-Men Following Star Trek's Lead\""
+      },
+      {
+        "href": "https://web.archive.org/web/20131007063615/http://www.ign.com/articles/2010/08/02/x-men-following-star-treks-lead",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20130614124620/http://www.empireonline.com/interviews/interview.asp?IID=1283",
+        "text": "\"X-Men: First Class Interviews\""
+      },
+      {
+        "href": "https://www.empireonline.com/interviews/interview.asp?IID=1283",
+        "text": "the original"
+      },
+      {
+        "href": "https://web.archive.org/web/20211111004310/https://www.oxfordmail.co.uk/news/8425499.x-men-stars-film-prequel-city/",
+        "text": "Archived"
+      },
+      {
+        "href": "https://variety.com/2010/film/news/snaring-the-big-hollywood-pictures-1118027580/",
+        "text": "\"Snaring the big Hollywood pictures\""
+      },
+      {
+        "href": "https://web.archive.org/web/20181107000750/https://variety.com/2010/film/news/snaring-the-big-hollywood-pictures-1118027580/",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20120917004733/http://savannahnow.com/latest-news/2010-09-09/x-men-may-be-landing-savannah",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20101024065001/http://savannahnow.com/news/2010-10-21/x-men-pick-jekyll-island-over-tybee-island",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20150924172025/http://www.superherohype.com/news/102188-x-men-first-class-scouting-locations-in-michigan",
+        "text": "Archived"
+      },
+      {
+        "href": "https://aintitcool.com/node/46217",
+        "text": "\"So Bryan Singer just called regarding Matthew Vaughn's X-Men: First Class ... I'm quite excited now\""
+      },
+      {
+        "href": "https://web.archive.org/web/20100824102626/http://www.aintitcool.com/node/46217",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20121012002224/http://www.clarin.com/espectaculos/cine/Villa-Gesell_0_488951187.html",
+        "text": "Archived"
+      },
+      {
+        "href": "https://www.hollywoodreporter.com/amp/heat-vision/we-were-wrong-behind-dark-phoenix-foxs-dismal-x-men-franchise-finale-plans-1216859",
+        "text": "\"\"We Were Wrong\": Behind Fox's 'Dark Phoenix' Debacle\""
+      },
+      {
+        "href": "https://web.archive.org/web/20190610142809/https://www.hollywoodreporter.com/amp/heat-vision/we-were-wrong-behind-dark-phoenix-foxs-dismal-x-men-franchise-finale-plans-1216859",
+        "text": "Archived"
+      },
+      {
+        "href": "https://variety.com/2011/film/news/rain-can-t-dampen-production-in-l-a-1118032725/",
+        "text": "\"Rain can't dampen production in L.A.\""
+      },
+      {
+        "href": "https://web.archive.org/web/20160304074926/http://variety.com/2011/film/news/rain-can-t-dampen-production-in-l-a-1118032725/",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20130601204407/http://herocomplex.latimes.com/movies/x-menfirst-class-three-exclusive-photos-and-a-report-from-the-stressed-out-set/",
+        "text": "Archived"
+      },
+      {
+        "href": "https://www.hollywoodreporter.com/news/fox-exec-at-ves-panel-242957",
+        "text": "\"Fox Exec at VES Panel: We Thought James Franco's Character Should Die in 'Apes'\""
+      },
+      {
+        "href": "https://web.archive.org/web/20120104200336/http://www.hollywoodreporter.com/news/fox-exec-at-ves-panel-242957",
+        "text": "Archived"
+      },
+      {
+        "href": "https://articles.latimes.com/2011/jun/04/business/la-fi-ct-xmen-20110604",
+        "text": "\"With 'X-Men: First Class' Fox tries a new mutation\""
+      },
+      {
+        "href": "https://web.archive.org/web/20120130160121/http://articles.latimes.com/2011/jun/04/business/la-fi-ct-xmen-20110604",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20120604184051/http://www.awn.com/articles/going-deeper-x-mens-origins",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20111229042946/http://www.filmmusicmag.com/?p=8019",
+        "text": "Archived"
+      },
+      {
+        "href": "https://www.upi.com/News_Photos/Entertainment/X-Men-First-Class-premiere-in-New-York/5161",
+        "text": "\"'X-Men: First Class' premiere in New York\""
+      },
+      {
+        "href": "https://archive.today/20210113005509/https://www.upi.com/News_Photos/Entertainment/X-Men-First-Class-premiere-in-New-York/5161/",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20180519185039/http://adage.com/article/media/farmers-insurance-a-seat-x-men-classroom/227959/",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20211111004546/https://www.mars.com/",
+        "text": "Archived"
+      },
+      {
+        "href": "https://www.ign.com/articles/2011/07/19/x-men-first-class-announced-for-dvdblu-ray",
+        "text": "\"X-Men: First Class Announced for DVD/Blu-ray\""
+      },
+      {
+        "href": "https://web.archive.org/web/20181106223137/https://www.ign.com/articles/2011/07/19/x-men-first-class-announced-for-dvdblu-ray",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20120330012229/http://blogs.coventrytelegraph.net/thegeekfiles/2011/08/uk-date-and-details-announced.html",
+        "text": "\"UK date and details announced for X-Men: First Class on DVD and Blu-ray\""
+      },
+      {
+        "href": "https://www.hollywoodreporter.com/news/x-men-first-class-leads-235648",
+        "text": "\"'X-Men: First Class' Leads Wave of Summer Blockbusters to DVD\""
+      },
+      {
+        "href": "https://web.archive.org/web/20181106212130/https://www.hollywoodreporter.com/news/x-men-first-class-leads-235648",
+        "text": "Archived"
+      },
+      {
+        "href": "https://www.the-numbers.com/dvd/charts/weekly/2011/20110911.php",
+        "text": "\"US DVD Sales Chart for Week Ending Sep 11, 2011\""
+      },
+      {
+        "href": "https://web.archive.org/web/20121103150406/http://www.the-numbers.com/dvd/charts/weekly/2011/20110911.php",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20120207124745/http://www.homemediamagazine.com/top-sellers/top-20-sellers-week-ended-091111",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20120628120547/http://www.officialcharts.com/chart-news/x-men-first-class-flies-the-top-of-the-charts/",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20180215063756/http://www.blu-ray.com/movies/X-Men-First-Class-4K-Blu-ray/160898/",
+        "text": "archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20110608132118/http://today.msnbc.msn.com/id/43286389/ns/today-entertainment",
+        "text": "\"'X-Men' mutants weaken with prequel debut\""
+      },
+      {
+        "href": "https://web.archive.org/web/20110608130347/http://www.boxofficemojo.com/news/?id=3179&amp;p=.htm",
+        "text": "\"Weekend Report: 'First Class' Ranks Last Among 'X-Men'\""
+      },
+      {
+        "href": "https://boxofficemojo.com/news/?id=3179&amp;p=.htm",
+        "text": "the original"
+      },
+      {
+        "href": "https://www.hollywoodreporter.com/news/box-office-report-x-men-194741",
+        "text": "\"Box Office Report: 'X-Men: First Class' Does Good Midnight Business\""
+      },
+      {
+        "href": "https://web.archive.org/web/20120702181747/http://www.hollywoodreporter.com/news/box-office-report-x-men-194741",
+        "text": "Archived"
+      },
+      {
+        "href": "https://www.hollywoodreporter.com/news/x-men-first-class-draws-194977",
+        "text": "\"'X-Men: First Class' Draws $61 Million at the Foreign Box Office\""
+      },
+      {
+        "href": "https://web.archive.org/web/20110608023630/http://www.hollywoodreporter.com/news/x-men-first-class-draws-194977",
+        "text": "Archived"
+      },
+      {
+        "href": "https://boxofficemojo.com/news/?id=3184&amp;p=.htm",
+        "text": "\"Weekend Report: 'Super 8' Checks In at Top Spot\""
+      },
+      {
+        "href": "https://web.archive.org/web/20120703211811/http://www.boxofficemojo.com/news/?id=3184&amp;p=.htm",
+        "text": "Archived"
+      },
+      {
+        "href": "https://www.hollywoodreporter.com/news/box-office-report-kung-fu-197101",
+        "text": "\"'Kung Fu Panda 2' Commands $56.5 Million Internationally\""
+      },
+      {
+        "href": "https://web.archive.org/web/20111112114308/http://www.hollywoodreporter.com/news/box-office-report-kung-fu-197101",
+        "text": "Archived"
+      },
+      {
+        "href": "https://www.rottentomatoes.com/m/x_men_first_class",
+        "text": "\"X-Men: First Class\""
+      },
+      {
+        "href": "https://www.wikidata.org/wiki/Q223596#P444",
+        "text": ""
+      },
+      {
+        "href": "https://www.metacritic.com/movie/x-men-first-class",
+        "text": "\"X-Men: First Class\""
+      },
+      {
+        "href": "https://deadline.com/2011/06/first-box-office-x-men-first-class-looking-like-23m-friday-including-3-3m-midnights-for-estimated-58m-weekend-137449/",
+        "text": "\"RISKY REBOOT? 'X-Men: First Class' $56M; Lowest Marvel Opening In A Long Time\""
+      },
+      {
+        "href": "https://www.hollywoodreporter.com/review/x-men-first-class-movie-192965",
+        "text": "\"X-Men: First Class: Movie Review\""
+      },
+      {
+        "href": "https://web.archive.org/web/20110601213842/http://www.hollywoodreporter.com/review/x-men-first-class-movie-192965",
+        "text": "Archived"
+      },
+      {
+        "href": "https://variety.com/2011/film/reviews/x-men-first-class-1117945347/",
+        "text": "\"Review: X-Men: First Class\""
+      },
+      {
+        "href": "https://web.archive.org/web/20130406123234/http://variety.com/2011/film/reviews/x-men-first-class-1117945347/",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20110803100932/http://www.filmjournal.com/filmjournal/content_display/reviews/major-releases/e3ie161d52b7c6dfd0feaabf7fdce60fc03",
+        "text": "\"Film Review: X-Men: First Class\""
+      },
+      {
+        "href": "https://ew.com/article/2011/06/15/x-men-first-class-review/",
+        "text": "\"X-Men: First Class Review\""
+      },
+      {
+        "href": "https://web.archive.org/web/20201128224936/https://ew.com/article/2011/06/15/x-men-first-class-review/",
+        "text": "Archived"
+      },
+      {
+        "href": "https://www.thestar.com/entertainment/2011/06/01/xmen_first_class_brainy_blockbuster.html",
+        "text": "\"X-Men: First Class: Brainy blockbuster\""
+      },
+      {
+        "href": "https://archive.today/20140303100629/http://www.thestar.com/entertainment/2011/06/01/xmen_first_class_brainy_blockbuster.html",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20160317022855/http://www.nationalboardofreview.org/award-years/2011/",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20150704001210/http://www.lafca.net/years/2011.html",
+        "text": "Archived"
+      },
+      {
+        "href": "https://www.hollywoodreporter.com/news/teen-choice-awards-2011-pretty-212996",
+        "text": "\"Teen Choice Awards 2011: 'Pretty Little Liars,' Rebecca Black Added to List of Nominees\""
+      },
+      {
+        "href": "https://web.archive.org/web/20110722085229/http://www.hollywoodreporter.com/news/teen-choice-awards-2011-pretty-212996",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20111018053145/http://www.spike.com/articles/yibwxn/scream--harry-potter-the-dark-knight-rises-big-winners-at-scream-awards-2011",
+        "text": "Archived"
+      },
+      {
+        "href": "https://web.archive.org/web/20131227000708/http://tvbythenumbers.zap2it.com/2011/11/08/nominations-announced-for-the-peoples-choice-awards-2012/",
+        "text": "\"Nominations Announced for the 'People's Choice Awards 2012'\""
+      },
+      {
+        "href": "https://web.archive.org/web/20120221234527/http://www.saturnawards.org/nominations.html",
+        "text": "\"Nominations for the 38th Annual Saturn Awards\""
+      },
+      {
+        "href": "https://en.wikiquote.org/wiki/Special:Search/X-Men:_First_Class",
+        "text": "X-Men: First Class"
+      },
+      {
+        "href": "https://www.20thcenturystudios.com/movies/x-men-first-class",
+        "text": "Official website"
+      },
+      {
+        "href": "https://www.imdb.com/title/tt1270798/",
+        "text": "X-Men: First Class"
+      },
+      {
+        "href": "https://www.allmovie.com/movie/v475797",
+        "text": "X-Men: First Class"
+      },
+      {
+        "href": "https://www.wikidata.org/wiki/Q223596#identifiers",
+        "text": ""
+      },
+      {
+        "href": "https://musicbrainz.org/release-group/416c60ef-6f79-4352-b53c-6ed4e1cac4d1",
+        "text": "release group"
+      }
+    ],
+    "text": "X-Men: First Class (stylized on-screen as X: First Class) is a 2011 superhero film based on the X-Men characters appearing in Marvel Comics. It is the fourth mainline installment in the X-Men film series and the fifth installment overall. It was directed by Matthew Vaughn and produced by Bryan Singer, and stars James McAvoy, Michael Fassbender, Rose Byrne, Jennifer Lawrence, January Jones, Oliver Platt, and Kevin Bacon. At the time of its release, it was intended to be a franchise reboot&#91;7&#93; and contradicted the events of X-Men Origins: Wolverine (2009); however, the follow-up film X-Men: Days of Future Past (2014) retconnedFirst Class into a prequel to X-Men (2000). First Class is set primarily in 1962 during the Cuban Missile Crisis, and focuses on the relationship between Charles Xavier and Erik Lehnsherr / Magneto, and the origin of their groups—the X-Men and the Brotherhood of Mutants, respectively, as they deal with the Hellfire Club led by Sebastian Shaw, a mutant supremacist bent on enacting nuclear war.\nProducer Lauren Shuler Donner first thought of a prequel based on the young X-Men during the production of X2; producer Simon Kinberg later suggested to 20th Century Fox an adaptation of the comic series X-Men: First Class, although the film does not follow the comic closely. Singer, who had directed both X-Men and X2, became involved with the project in 2009, but he could only produce and co-write First Class due to his work on other projects. Vaughn, who was previously attached to both X-Men: The Last Stand and Thor, became the director, and also wrote the final script with his writing partner Jane Goldman. First Class replaced a Magneto prequel film that had been in development, but had entered development hell; the Writers Guild of Americaarbitration gave a story credit to Magneto writer Sheldon Turner. Principal photography began in August 2010 and concluded in December, with additional filming completed in April 2011. Locations included Oxford, the Mojave Desert and Georgia, with soundstage work done in both Pinewood Studios and the 20th Century Fox stages in Los Angeles. The depiction of the 1960s drew inspiration from the James Bond films of the period.\nFirst Class premiered on Ziegfeld Theatre on May 25, 2011, and was released in the United States on June 3, 2011. It was a box office success, becoming the seventh highest-grossing in the film series, and received positive reviews from critics and audiences, who praised its acting (Particularly McAvoy and Fassbender), screenplay, direction, action sequences, visual effects, and musical score. The film's success re-popularized the X-Men film franchise with various installments following, including a number of sequels focusing on younger iterations of the X-Men characters, with X-Men: Days of Future Past (2014), X-Men: Apocalypse (2016), and Dark Phoenix (2019).\nIn 1944, at the Auschwitz concentration camp, Nazi officer Klaus Schmidt witnesses young prisoner Erik Lehnsherr bend a metal gate with his mind upon being separated from his mother. In his office, Schmidt orders Erik to move a coin on his desk, and kills his mother when Erik can't. In grief and anger, Erik's magnetic power manifests, killing two guards and destroying the room. Separately, at a mansion in Westchester County, New York, child telepathCharles Xavier meets young shapeshifter Raven, whose natural form is blue-skinned and scaly. Overjoyed to meet someone \"different\", like himself, he invites her to live with his family as his foster sister.\nIn 1962, Erik is tracking down Schmidt to avenge his mother, while Xavier earns his doctorate from the University of Oxford as Professor of Genetics. In Las Vegas, CIA officer Moira MacTaggert follows U.S. Army Colonel Hendry into the Hellfire Club, where she sees Schmidt (now called Sebastian Shaw) with mutant telepath Emma Frost, cyclone-producing Riptide, and teleporterAzazel. Threatened by Shaw and teleported to the Joint War Room, Hendry advocates deploying nuclear missiles in Turkey. Shaw, an energy-absorbing mutant whose powers have kept him young, later kills Hendry.\nMoira, seeking Xavier's advice on mutation, takes him and Raven to the CIA, where they convince Director McCone that mutants exist and Shaw is a threat. Another CIA officer sponsors the mutants and invites them to the secret \"Division X\" facility. Moira and Xavier find Shaw as Erik is attacking him, and rescue Erik from drowning. Shaw escapes. Xavier brings Erik to Division X, where they meet young scientist Hank McCoy, a mutant with prehensile feet, who believes Raven's DNA may provide a \"cure\" for their appearance. Xavier uses McCoy's mutant-locating device Cerebro to seek recruits against Shaw. Xavier and Erik recruit stripper Angel Salvadore, cabbie Armando Muñoz, Army prisoner Alex Summers, and drifter Sean Cassidy. They create nicknames, Raven dubbing herself \"Mystique\".\nWhen Frost meets with a Soviet general in the USSR, and uses her telepathic powers to manipulate him, Xavier and Erik capture her and discover Shaw intends to start World War III, triggering mutant ascendency. Azazel, Riptide and Shaw attack Division X, killing everyone but the mutants, whom Shaw invites to join him. Salvadore accepts; when Alex and Muñoz retaliate, Shaw kills Muñoz. In Moscow, Shaw compels the general to have the USSR install missiles in Cuba. Wearing a helmet that blocks telepathy, Shaw follows the Soviet fleet in a submarine to ensure the missiles break a U.S. blockade.\nMcCoy uses the cure on himself but it backfires, giving him blue fur and leonine aspects. With McCoy piloting, the mutants and Moira take a jet to the blockade line, where Xavier uses his telepathy to influence a Soviet sailor to destroy the ship carrying the missiles, and Erik uses his magnetic power to lift Shaw's submarine from the water and deposit it on land. During the ensuing battle, Erik seizes Shaw's helmet, allowing Xavier to immobilize Shaw. While Shaw is helpless, Erik reveals he shares Shaw's exclusivist view of mutants but, to avenge his mother, uses his power to kill Shaw by slowly pushing a Nazi coin through Shaw's brain, killing him. Unable to risk releasing Shaw, Xavier begs Erik to stop, but is forced to experience the pain of Shaw's death.\nBoth fleets fire missiles at the mutants, which Erik turns back in mid-flight. Moira tries to stop Erik by shooting him but he deflects the bullets, one of which hits Xavier in the spine. Erik rushes to help Xavier and, distracted, allows the missiles to fall harmlessly into the ocean. Parting with Xavier over their differing views on the relationship between mutants and humans, Erik leaves with Salvadore, Azazel, Riptide and Mystique. Later, a wheelchair-using Xavier and his mutants are at the mansion, where he intends to open a school. Moira promises Xavier never to reveal his location, but Xavier makes sure of this by wiping her memories. Meanwhile, Erik, along with Mystique and the other Hellfire Club members, frees Frost from confinement and dubs himself \"Magneto\".\nOther cast members include Caleb Landry Jones as Cassidy / Banshee: a mutant capable of emitting incredibly strong ultrasonic screams, sonic blasts, sonic bursts, and sonic waves used in various ways including as a means of flight. Jones auditioned without knowing what X-Men character he was up for,&#91;36&#93; saying he auditioned because it was a superhero that fit his biotype: \"I've got red hair and freckles, I'm not gonna be Batman, Robin or Spider-Man\".&#91;34&#93; The actor also stated that the script defined the character more than the comics, as Banshee went through various reinventions in print. Given Banshee gets involved with MacTaggert in the comics, Jones also tried to \"look at her just a little bit differently, you know, when I can.\"&#91;36&#93; As Jones suffers from acrophobia, using the rig that was to depict Banshee's flight required much preparation time with the stunt team.&#91;14&#93;Zoë Kravitz portrays Angel Salvadore: a mutant with dragonfly wings which are tattooed on her body and who possesses acidic saliva. The make-up team took four hours to apply Angel's wing tattoo on Kravitz, and the visual effects team had to erase the tattoo in case the scene required Angel with the computer-generated wings.&#91;33&#93; To depict flight, Kravitz stood on elevated platforms and was dangled on wires,&#91;14&#93; at times from a helicopter to allow for varied camera angles.&#91;33&#93;Álex González portrays Janos Quested / Riptide: a silent mutant member of the Hellfire Club, with the ability to create powerful whirlwinds from his hands and body. First Class marks the first English-language film for González, who auditioned while taking English classes in London. He enjoyed playing a villain as most of his film roles in Spain were for \"good guys\", and compared Riptide's respectable and polite personality, which can suddenly be dropped to perform fierce attacks, to a hurricane; in a translation of a Portuguese-language interview, he is quoted as saying, \"When I see a hurricane from far, it is calm. The only thing I can see is a kind of tube. But from inside, up close, it is really dangerous.\"&#91;37&#93;Additionally, co-stars include Glenn Morshower as Colonel Hendry, a US Army officer coerced by the Hellfire Club; Matt Craven as CIA Director McCone; Rade Šerbedžija as Russian General. Annabelle Wallis appears as Amy, a young woman with heterochromia; Don Creech as William Stryker, father of Major William Stryker (a character who appears in X2, X-Men Origins: Wolverine, X-Men: Days of Future Past, and X-Men: Apocalypse);&#91;38&#93;Michael Ironside; Ray Wise;&#91;39&#93;James Remar; Brendan Fehr; Demetri Goritsas; Ludger Pistor; Aleksander Krupa; and Sasha Pieterse also portrayed small roles in this film. Beth Goddard appears as Mrs. Xavier. Hugh Jackman reprises his role as Wolverine in an uncredited cameo in a bar, telling Xavier and Lehnsherr to \"go fuck yourself\" after they approach him for recruitment. Jackman said he accepted the offer to appear because \"it sounded perfect to me\", particularly for Wolverine being the only character with a swear word.&#91;40&#93; X-Men creator Stan Lee, who appeared in the first and third movie and regularly cameos in other  Marvel-based movies, explained that he was unable to participate in First Class because \"they shot it too far away\".&#91;41&#93;During the production of X2, producer Lauren Shuler Donner had discussed the idea of a film focusing on the young X-Men with the crew, which was met with approval; the concept was revived during the production of X-Men: The Last Stand.&#91;42&#93; One of The Last Stand&#39;s writers, Zak Penn, was hired to write and direct this spin-off,&#91;43&#93; but this idea later fell through.&#91;44&#93; Penn explained in 2007 that \"the original idea was to have me do a young X-Men spin-off, a spin-off of the young X-Men characters. But someone came up with a pretty interesting idea ... it was this guy who worked with me named Mike Chamoy, he worked a lot with me on X3. He came up with how to do a young X-Men movie which is not what you'd expect.\"&#91;44&#93;Around the same time, in December 2004, 20th Century Fox hired screenwriter Sheldon Turner to draft a spin-off X-Men film, and he chose to write Magneto, pitching it as \"The Pianist meets X-Men.\"&#91;45&#93; According to Turner, the script he penned was set from 1939 to 1955,&#91;46&#93; following Magneto trying to survive in Auschwitz. He meets Xavier, a young soldier, during the liberation of the camp. He hunts down the Nazi war criminals who tortured him, and this lust for vengeance turns him and Xavier into enemies.&#91;47&#93; In April 2007, David S. Goyer was hired to direct. The film would take place mostly in flashbacks with actors in their twenties, with Ian McKellen's older Magneto as a framing device,&#91;47&#93; and some usage of the computer-generated facelift applied to him in the prologue of X-Men: The Last Stand,&#91;48&#93; McKellen reiterated his hope to open and close the film.&#91;49&#93; The Magneto film was planned to shoot in Australia for a 2009 release,&#91;50&#93;&#91;51&#93; but factors including the 2007–08 Writers Guild of America strike caused the producers to cancel plans for the movie.&#91;52&#93;As producer Simon Kinberg read the comic series X-Men: First Class, he suggested studio 20th Century Fox to adapt it. Kinberg, however, did not want to follow the comic too much, as he felt \"it was not fresh enough in terms of storytelling\", considering them too similar to Twilight and John Hughes movies, and also because the producers wanted an adaptation that would introduce new characters.&#91;42&#93; Both Kinberg and Shuler Donner said that they wanted characters with visuals and powers that had not been seen and that worked well as an ensemble, even if they did not work together in the comics.&#91;34&#93; Shuler Donner later said that the original idea was to green-lightFirst Class depending on the success of X-Men Origins: Magneto.&#91;53&#93; That project was seeking approval to film in Washington, D.C.,&#91;54&#93; and by December 2008, Goyer said filming would begin if X-Men Origins: Wolverine was successful. The story was moved forward to 1962, and involves Xavier and Magneto battling a villain.&#91;55&#93;In 2008, Josh Schwartz was hired to write the screenplay, while declining the possibility of directing X-Men: First Class.&#91;56&#93; Fox later approached Bryan Singer, director of X-Men and X2, in October 2009.&#91;57&#93; Schwartz later said that Singer dismissed his work as \"he wanted to make a very different kind of movie\",&#91;58&#93; with the director instead writing his own treatment which was then developed into a new script by Jamie Moss.&#91;57&#93;In 2009, Ian McKellen confirmed that he would not be reprising his role as Magneto in the Origins movie citing his age,&#91;59&#93; and Shuler Donner stated that the movie might never be made,&#91;60&#93; stating it was \"at the back of the queue\" in the studio's priorities.&#91;61&#93; Both Donner and Bryan Singer have stated that Magneto would not be produced as the plot of X-Men: First Class \"superseded\" the story of the planned film.&#91;62&#93;&#91;63&#93; Singer denied using Sheldon Turner's script for Magneto as inspiration to write his draft of First Class,&#91;64&#93; but the Writers Guild of Americaarbitration still credited Turner for the film's story, while Moss and Schwartz's collaborations ended up uncredited.&#91;65&#93;&#91;66&#93; Singer set the film in a period where Xavier and Magneto were in their twenties, and seeing that it was during the 1960s, added the Cuban Missile Crisis as a backdrop, considering it would be interesting to \"discuss this contemporary concept in a historical context\". Shuler Donner suggested the Hellfire Club as the villains.&#91;42&#93;In addition to Moss, Ashley Edward Miller and Zack Stentz were hired to rewrite the script. Miller compared it tonally to Singer's work on the first two X-Men films.&#91;67&#93; The pair centered the film on Xavier and Magneto's relationship, and wrote the other characters and storylines in terms of \"how they fit in the tension between Erik and Charles\".&#91;42&#93; Singer dropped out of the director's position in March 2010 due to his commitment to a Jack the Giant Killer adaptation. He formalized his duties from director to producer.&#91;68&#93;The producers listed various possible directors, but at first did not consider Matthew Vaughn because he started working on The Last Stand before backing out. After seeing Vaughn's satirical superhero film Kick-Ass (2010), Kinberg decided to contact Vaughn to see if he would be interested in First Class.&#91;42&#93; When Fox offered Vaughn the \"chance to reboot X-Men and put your stamp all over it\", he first thought the studio was joking, but accepted after discovering that it was to be set in the 1960s.&#91;69&#93; The director stated that First Class would become the opportunity to combine many of his dream projects: \"I got my cake and ate it, managed to do an X-Men movie, and a Bond thing, and a Frankenheimer political thriller at the same time\".&#91;8&#93; Vaughn signed on as Singer's replacement in May 2010, and Fox subsequently announced a June 3, 2011 release date.&#91;70&#93; Vaughn also rewrote the script with his screenwriting partner Jane Goldman, adding new characters and changing existing character arcs and dynamics—for instance, the idea of a love triangle between Xavier, Magneto and Moira MacTaggert was cut.&#91;42&#93; The character of Sunspot was also cut, as the director felt that \"we didn't have enough time or money\" to make the character work. Vaughn and Goldman considered including mentions to the civil rights movement, but ultimately the director felt that \"I had enough political subplot in this movie\". Vaughn stated that his biggest concern was to both make Erik and Charles' friendship believable given the short timespan of the film, and on how the character of Magneto was built—\"Shaw was the villain, but now you're seeing all those elements of Shaw going into Magneto.\"&#91;8&#93; An action scene that was to have been set in a dream sequence with revolving rooms was scrapped after the release of Inception (2010).&#91;71&#93;Describing his thought process towards the material, Vaughn said he was motivated by \"unfinished business\" with Marvel, having been previously involved with the production of both X-Men: The Last Stand&#91;69&#93; and Thor.&#91;7&#93; Vaughn declared that he was more enthusiastic about First Class than The Last Stand due to not being constrained by the previous installments, and having the opportunity to \"start fresh\", while \"nodding towards\" the successful elements from those films.&#91;7&#93; Vaughn compared First Class to both Batman Begins (2005), which restarted a franchise with an unseen approach,&#91;72&#93; and the 2009 Star Trek film, which paid homage to the original source material while taking it in a new direction with a fresh, young cast.&#91;73&#93; Regarding continuity, Vaughn said his intention was \"to make as good a film that could stand on its own two feet regardless of all the other films\" and also that could \"reboot and start a whole new X-Men franchise\".&#91;7&#93; Goldman added the film was kind of an \"alternate history\" for the X-Men, saying that while rebooting, the writers did not want to go fully \"against the canon of the X-Men trilogy\", comparing to the various approaches the comic had in over fifty years of publication.&#91;74&#93;The film also resurrects a central concept in the comics, the fact that radiation is one of the causes of genetic mutation in the X-Men fictional universe, and incorporates it into the story line. The concept went unused in previous years because writers in the comics more often attributed the phenomenon of mutation mostly to evolution and natural selection.\nPrincipal photography began on August 31, 2010, in Oxford, England, which included St Aldate's street and some of the University of Oxford's buildings, and lasted for two days.&#91;75&#93; Production then moved to Pinewood Studios in Iver,&#91;76&#93; and to Georgia in October, including Tybee Island, Thunderbolt, and Savannah,&#91;77&#93; after sites in Louisiana, North Carolina&#91;78&#93; and West Michigan were considered.&#91;79&#93; Jekyll Island was chosen over Tybee Island after a producer reviewed the locations on Google Earth and thought the water near Jekyll looked more blue.&#91;78&#93; Palm trees were planted into the island's sand so that it would look more like a tropical beach, but the cold weather caused many of the palm trees to become brown or die only days into the shoot, necessitating significant digital color correction from the visual effects team.&#91;33&#93; Additional location shooting took place in Russia.&#91;80&#93; A section of the plot is set in the Argentine coastal city of Villa Gesell, but was filmed in another province of the country with no beach but with mountains instead.&#91;22&#93;&#91;81&#93; Washington, D.C., the Mojave Desert and Fox's soundstages in Los Angeles also served as locations.&#91;22&#93; The Englefield House in Berkshire served as the X-Mansion, and had its interior decoration adapted to resemble the way the mansion looked in the previous films. Both the submarine and the X-Jet were built on hydraulic sets so that they could be rotated for the vehicles' movements.&#91;82&#93;Principal photography ended in December, although just half of the climax had actually been filmed because producers realized the originally planned one was not going to work.&#91;83&#93; Additional filming, primarily in California at Los Angeles and Long Beach soundstages,&#91;84&#93;&#91;85&#93; continued into April 2011, leaving only three-to-four weeks for post-production before the film's scheduled premiere in June.&#91;86&#93; The tight schedule to meet the release date led Vaughn to declare that he had \"never worked under such time pressure\".&#91;85&#93; The film cost approximately $160 million to produce without tax breaks,&#91;87&#93; with the eventual cost around $140 million.&#91;5&#93;The 1960s setting of X-Men: First Class, technologically inspired by the James Bond films of that era, also added to the international feel of the characters.&#91;80&#93; Kinberg said the series was a major influence for the way they \"did a cool job representing the period, in a way it still felt muscular and action-oriented\", and Vaughn added that Magneto was his attempt to recreate Sean Connery's Bond in both style and the \"badass, charming, ruthless and sweet\" personality.&#91;82&#93; The director said his goal was to \"feel like a '60s Bond film, but with a little bit of reality it could be grounded in. I wanted there to be just a hint of this world of the mutants coming through. A mutant in this world having powers needed to be the equivalent of you or I sneezing, as normal as possible, at least until the humans start seeing it for the first time.\"&#91;11&#93; At the same time, Vaughn tried to do the \"bloody hard balancing\" of modern and antique to recreate the 1960s in way it was \"not so alien to the kids that it looked like a period piece.\"&#91;82&#93; The director also tried to depict the era still in a realistic way, particularly \"that '60s misogynist vibe\" with women in skimpy suits, and MacTaggert's reliability as a CIA agent being questioned.&#91;8&#93; There is also a nod to the 1950s and 60s in the scenes set in \"Oxford University\", starting with the \"heterochromia scene\". These are set in a pub called \"the Eagle\", next to the famous \"Bridge of Sighs\" in Oxford, but there is no such pub. This seems to be a reference to the Eagle pub in Cambridge, where Crick and Watson infamously announced their solution to the structure of DNA (in 1953), very relevant to the themes of the film.\nVaughn said he shot the film in a way which resembled the productions of the 1960s, with \"very traditional framing, and camera movement when it needs to move, not just throwing it around and whizz-bang\",&#91;8&#93; and using the anamorphic format \"to create a widescreen experience, which is emblematic of '60s movies, such as the James Bond films\".&#91;22&#93; The director had to hire five cinematographers – with sole credit being given to John Mathieson, who came halfway through the shoot and did \"forty-five percent, fifty-five percent\" of the film—and four assistant directors to successfully convey the look he wanted for the film.&#91;8&#93;&#91;11&#93; Visual effects supervisor Matt Johnson added that for the lighting of the digital interior of Cerebro, \"keeping with the '60s vibe, we put in some old school elements such as lens flare and chromatic aberration and edge fringing.\"&#91;22&#93; The aesthetics of the decade were also invoked by designers Simon Clowes and Kyle Cooper of Prologue Films, who were responsible for the end credits and tried to do something that \"could be done with traditional optical\". The credits animation depicts DNA strands through simple geometric shapes, drawing inspiration from both Saul Bass and Maurice Binder's work in the Bond films.&#91;88&#93;The origin story made the X-Men costumes resemble the ones in the original comics, while still being functional, with the yellow parts resembling Kevlar and the blue looking like ballistic nylon, and resembling 1962 apparel in both the fabrics and the \"Space Age fashion\". The costumes tried to convey the character personalities—for instance, Xavier wore loose clothes, and Emma Frost's costumes were white and shimmery. Magneto's costume at the film's ending also closely resembled the original version from the comics, and three versions of his helmet were made, two to fit Fassbender's head and one for Bacon's.&#91;89&#93;First Class employed 1,150 visual effects shots,&#91;90&#93; which was done by six companies:&#91;22&#93;Rhythm and Hues was responsible for Emma Frost, Mystique and Angel, as well as set extensions; Cinesite handled Azazel, the visuals for Cerebro and environment effects; Luma Pictures did Banshee, Havok and Darwin; Moving Picture Company did Beast, Riptide, and the scene where Shaw's yacht is destroyed and he escapes in a submarine; Digital Domain created Sebastian Shaw's powers, and Weta Digital was responsible for the climactic battle in Cuba.&#91;33&#93; The overall coordination was provided by visual effects designer John Dykstra, who said the biggest difficulty was the tight schedule: \"It was slightly less than a year and I've never done anything like that before (Spider-Man was frequently two years).\"&#91;90&#93; British company 4dMax employed special 3D scanners to digitize data of the sets and actors which would be used by the effects companies.&#91;22&#93; This allowed for computer-generated sets such as the mirrored nuclear reactor where Magneto battles Shaw&#91;90&#93;—for which the effects team used the mirror maze fight in Enter the Dragon as a reference—and the domed walls of Cerebro. Digital models of Washington and Moscow were also created based on photographs of the actual cities,&#91;33&#93; with the Russian one in particular having vehicles and military hardware based on videos of a 1962 Red Square, and a digital army doing an actual Soviet-style march. With the exception of scenes featuring the actors on ships (shot on a small bridge set) and the X-Jet (done on a set replicating the front two-thirds of the aircraft, which was mounted atop a roller wheel so it could be spun) the naval battle was entirely digital, featuring a simulated ocean and high resolution 3D models of the X-Jet, Shaw's submarine and 16 warships. The designs were mostly based on real vehicles, with the jet being a modified SR-71 Blackbird, the submarine a combination of various models from the 1940s and 1950s, and replicas of the actual US and USSR fleets in the 1960s—though a few were not in service in 1962. A particular Soviet cruiser was a larger version of the Kresta I and II, leading Weta to dub it the Kresta III.&#91;22&#93;Practical effects were still used whenever possible, such as having on location most of the objects young Erik throws after his mother's death, actors and stuntmen dangled from wires, and real explosions and light effects as reference for Havok's beams.&#91;14&#93;While in the comics Shaw's absorption power was depicted by having him grow up to ten times his original size, First Class instead does what company Digital Domain called a \"kinetic echo\", where a digital Kevin Bacon would be rippled, deformed and at times multiplied in repeated \"iterations\" that appear in a short period, to \"see [Shaw] displace and deform in a kinetic and organic way\".&#91;14&#93; According to Dykstra, the biggest problem with Frost's diamond body was depicting it \"without looking like she was made of Jell-O or the polygon model of a human being\".&#91;90&#93; The morphed Frost, which the visual effects tried to make look more like a faceted crystal than glass,&#91;90&#93; was rotomated into Jones in the live-action plates while still retaining the actress' eyes and lips.&#91;22&#93; As the character kept on going in and out of her diamond form, a motion capture tracking suit could not be employed, so instead the effects team used both gray and chrome balls and a jumpsuit covered in mirrors—which also served as a lighting reference.&#91;14&#93;&#91;33&#93; For Angel's digital wings, the animators studied slow-motion footage of dragonflies to create the wing pattern in a realistic way,&#91;22&#93; and the designers added iridescence to \"make the wings prettier\".&#91;91&#93; The visual of Banshee's screams was done through a digital ring-like structure based on renderings of sound waves such as Schlieren photography.&#91;22&#93;&#91;33&#93; The visual for Havok's blasts employed similar rings,&#91;33&#93; concentrated in beams or rings of light which were then match moved into Till's mimed throwing.&#91;22&#93; For Banshee's flight, the visual effects team used digital doubles only for distant shots, with closer ones employing Jones shot in a special flight rig.&#91;22&#93; Azazel's teleporting was made to resemble the \"inky smoky effects\" used with Nightcrawler, who appeared in X2 and is Azazel's son in the comics.&#91;22&#93; However, while Nightcrawler only left a smoke trail, the visual effects team had Azazel accompanied by digital fire and smoke \"because he was more closely aligned with the devil\". The fire was also used \"as a mask to hide or reveal the body\", according to effects supervisor Matt Johnson.&#91;33&#93; Since the visible part of whirlwinds are the dust and dirt sucked up by them, the ones Riptide produces were made to resemble \"a tornado of gas, made out of nothingness\" by visual effects supervisor Nicolas Aithadi. The final product was mostly a practical effect made with dry ice, which was augmented by computer-generated imagery.&#91;22&#93; The visual effects team portrayed Mystique's abilities slightly differently due to this being a younger version, with \"the scales being slightly longer and the transformation being slightly showier than when she became the more mature Rebecca.\"&#91;90&#93; For Beast, computer graphics depicted his simian-like feet, the transformation sequence, and a few facial replacements for when Beast opened his mouth wider than the mask on Hoult's face allowed.&#91;22&#93;Henry Jackman, who had previously collaborated with Vaughn in Kick-Ass (2010), composed the pop-and-rock infused incidental music for First Class. He further drew inspiration from John Barry's musical themes, which had a \"posh pop\" musical style, and also produced a \"Superman-style theme\" in the final parts of the film. The theme was then stretched half-time and used in the remainder of the film, after Vaughn's directions who felt it as \"triumphant\" score for a team that is disjointed.&#91;92&#93;&#91;93&#93; Several pop tracks were also integrated in the film. The original score album was released digitally by Sony Classical Records on June 6, 2011 and was followed by a physical release on July 4, 2011.\nThe premiere for X-Men: First Class took place at the Ziegfeld Theatre in New York City, on May 25, 2011.&#91;94&#93; The promotional campaign aimed for non-traditional partners, with Fox signing deals with Farmers Insurance Group, BlackBerry PlayBook and the U.S. Army.&#91;95&#93;Wrigley Australia issued an X-Men-themed edition of  their 5chewing gum.&#91;96&#93;X-Men: First Class was released on DVD and Blu-ray in the US on September 27 and in the UK on October 31, 2011.&#91;97&#93;&#91;98&#93; The home release topped the sales charts in the United States&#91;99&#93; with approximately 385,000 DVDs.&#91;100&#93; Blu-ray accounted for 60 percent of first-week disc sales, amounting to about 575,000 discs.&#91;101&#93; In the UK it sold 150,000 units.&#91;102&#93; The film was later released on 4KUHD Blu-ray on October 4, 2016.&#91;103&#93;X-Men: First Class went on general release on June 3, 2011. In North America, the film opened on approximately 6,900 screens at 3,641 locations, debuting atop the weekend box office with earnings of $55.1 million across the three days,&#91;104&#93;&#91;105&#93; including $3.4 million in its Friday midnight launch.&#91;106&#93; This opening was much lower than the opening weekends of X-Men: The Last Stand ($102.7 million), X2 ($85.5 million), and X-Men Origins: Wolverine ($85.0 million), but slightly higher than the original film ($54.5 million).&#91;105&#93; Executives at 20th Century Fox stated they had achieved their goal by opening with about the same numbers as the first X-Men film and that it was an excellent start to a new chapter of the franchise.&#91;104&#93;First Class also opened 8,900 locations in 74 overseas markets, which brought in $61 million during the weekend—standing third in the overseas ranking behind Pirates of the Caribbean: On Stranger Tides and The Hangover Part II. The film opened atop the box office in twenty countries, with the biggest grosses being in the United Kingdom ($9 million, including previews), France ($7.1 million), Mexico ($5 million), South Korea ($5.4 million) and Australia ($5.1 million).&#91;107&#93; In its second weekend X-Men: First Class dropped 56.2 percent, the second-smallest second-weekend drop in the franchise behind X2: X-Men United (53.2 percent), and came in with $24.1 million, in second place to Super 8.&#91;108&#93; Overseas, it rose to number two behind Kung Fu Panda 2, with $42.2 million.&#91;109&#93; The film grossed $146,408,305 in the United States and Canada and $207,215,819 in foreign markets, bringing its worldwide total to $353,624,124.&#91;6&#93;On review aggregation website Rotten TomatoesX-Men: First Class holds an approval rating of 86% based on 299 reviews, with an average rating of 7.4/10. The site's critical consensus reads, \"With a strong script, stylish direction, and powerful performances from its well-rounded cast, X-Men: First Class is a welcome return to form for the franchise.\"&#91;110&#93; On Metacritic, the film received a score of 65 out of 100, based on reviews from 38 critics, indicating \"generally favorable reviews\".&#91;111&#93; Audiences polled by CinemaScore gave the film an average grade of \"B+\" on an A+ to F scale.&#91;112&#93;Among the major trade publications, Todd McCarthy of The Hollywood Reporter described the film as \"audacious, confident and fueled by youthful energy\", and said that \"director Vaughn impressively maintains a strong focus dedicated to clarity and dramatic power ... and orchestrates the mayhem with a laudable coherence, a task made easier by a charging, churning score by Henry Jackman ...\".&#91;113&#93; Justin Chang of Variety said the film \"feels swift, sleek and remarkably coherent\", and that \"the visual effects designed by John Dykstra are smoothly and imaginatively integrated ...\"&#91;114&#93;Frank Lovece of Film Journal International lauded \"a wickedly smart script with a multilayered theme that ... never loses sight of its ultimate story, and makes each emotional motivation interlock, often shockingly playing for keeps with its characters.\"&#91;115&#93;In consumer publications, Lisa Schwarzbaum of Entertainment Weekly praised \"the kind of youthful, Brit-knockabout pop energy director Matthew Vaughn absorbed from his previous collaborations as producer of director Guy Ritchie's bloke-y larks\", and found McAvoy and Fassbender \"a casting triumph. These two have, yes, real star magnetism, both individually and together: They're both cool and intense, suave and unaffected, playful and dead serious about their grand comic-book work.\"&#91;116&#93; Peter Howell of the Toronto Star called it \"a blockbuster with brains\" and said Vaughn \"brings similar freshness to this comic creation as he did to Kick-Ass, and manages to do so while hewing to the saga's serious dramatic intent.\"&#91;117&#93;The film's success led to the continuation of the film series. X-Men: Days of Future Past, which acts as a sequel to both First Class and The Last Stand, was released on May 23, 2014. A direct sequel, X-Men: Apocalypse, was released on May 27, 2016. A third and final sequel, Dark Phoenix, was released on June 7, 2019.\n",
+    "imageNames": [
+      "19px-Symbol_support_vote.svg.png",
+      "X-MenFirstClassMoviePoster.jpg",
+      "220px-James-mcavoy-michael-fassbender-x-men-junket-interview-300x300.jpg",
+      "300px-Englefield_House.jpg",
+      "220px-X-MEN_First_Class.JPG",
+      "10px-OOjs_UI_icon_edit-ltr-progressive.svg.png",
+      "34px-Wikiquote-logo.svg.png",
+      "28px-Video-x-generic.svg.png",
+      "32px-Flag_of_the_United_States.svg.png",
+      "27px-Dragon-149393.svg.png",
+      "16px-Symbol_category_class.svg.png",
+      "10px-OOjs_UI_icon_edit-ltr-progressive.svg.png",
+      "start?type=1x1"
+    ]
+  }
+}
